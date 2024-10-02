@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+header {
+  background-color: aquamarine;
+  border: solid 3px beige;
+  height: 120px;
+  text-align: center;
+  padding-top: 6px;
+  color: cornflowerblue;
+}
+header li {
+  display: inline-block;
+  margin: 10px;
+}
+header li a {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+.primeiraSessao {
+  border: solid beige 3px;
+  height: 300px;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/024/639/169/non_2x/cartoon-cake-delights-colorful-pastel-joy-for-parties-free-png.png");
+  background-repeat: repeat-x;
+  background-size: 10%;
+  background-position: center;
+}/*# sourceMappingURL=style.css.map */
